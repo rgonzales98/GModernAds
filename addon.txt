@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"				"ModernAds" 
+	"version"			"1.1"
+	"author_name"		"rgonzales98"
+	"info"				"Displays Ads and Adds Custom Url Commands"
+}
+
+
